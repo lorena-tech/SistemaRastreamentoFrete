@@ -9,3 +9,4 @@ Imersão Full Stack &amp; Full Cycle
 - Apache Kafka
 - Prometheus
 - Grafana
+- MongoDB
