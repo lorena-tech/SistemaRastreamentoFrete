@@ -9,4 +9,7 @@ Imersão Full Stack &amp; Full Cycle
 - Apache Kafka
 - Prometheus
 - Grafana
-- MongoDB
+- MongoDB e Prisma ORM
+- Rest
+- Javascript
+- API Google Mapas
